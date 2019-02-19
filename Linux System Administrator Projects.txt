@@ -1,0 +1,158 @@
+Linux System Administrator Projects
+
+Scratch Your Own Itch
+
+Find a real need you have and fill it using a Linux based solution. This is one of the most rewarding ways to learn Linux. For example,
+
+    Do you need somewhere to store work related documentation or notes? Then install a Wiki on Linux.
+    Want to start a blog? Host it on Linux!
+    Want to stream online content to your TV or other devices in your home? Then build a Linux media server.
+
+The next time you have a technical need and want to get some extra Linux practice, see if you can solve your problem with Linux.
+Configure the LAMP Stack
+
+LAMP stands for Linux Apache MySQL and PHP. It’s a very common architecture for web applications. If you think about the LAMP stack in broad terms you have an operating system (Linux), a web server (Apache), a database tier (MySQL), and a programming language (PHP). You can substitue different solutions for each component. Try configuring the LAMP stack on CentOS, then Ubuntu. Instead of using Apache you could use NGINX or lighttpd. For the database you could use PostgreSQL, MariaDB, or MongoDB. Instead of using PHP, why not try Python?
+
+If you want to take it a step further and learn how to set up a highly available and scalable LAMP Stack, check out the High Availability for the LAMP Stack Course.
+
+    Linux
+    Apache
+    MySQL
+    PHP
+
+Deploy an Open Source Application
+
+Find an application that you would be interested in using and deploy it. Even if you don’t end up using the application you’ll have gained the experience of setting it up.
+
+    Alfresco
+    Bugzilla
+    DokuWiki
+    Drupal
+    Etherpad Lite
+    Gitlab
+    Joomla
+    MediaWiki
+    Moodle
+    osTicket
+    OwnCloud
+    phpBB
+    PunBB
+    Redmine
+    ServiceDesk Plus
+    SugarCRM
+    Trac
+    Twiki
+    WordPress
+    Zen Cart
+
+Configure Common Services – Client AND Server
+
+    cron
+    CUPS
+    DHCP
+    DNS
+    Email (SMTP, POP, IMAP)
+    LDAP
+    NFS
+    NIS
+    NTP
+    SSH
+
+Configure Monitoring
+
+    Cacti
+    Icinga
+    Monit
+    Munin
+    Nagios
+    OpenNMS
+    Zabbix
+    Zenoss
+
+Create a Build System
+
+    Cobbler
+    FAI
+    Foreman
+    Kickstart
+    Razor
+    Spacewalk
+
+Create a Centralized Syslog Server
+
+    ELK Stack: Elasticsearch, Logstash & Kibana
+    Fluentd
+    Logstash
+    Kibana
+    Splunk
+    syslog-ng
+
+System Automation
+
+    Ansible
+    Chef
+    MakeFiles and/or RakeFiles
+    Puppet
+    Salt Stack
+    Write Shell Scripts
+
+Cluster All The Things
+
+    Load balance web servers or other services using HAProxy
+    Create a MySQL Cluster
+    Create a GlusterFS Cluster
+    Red Hat Cluster (Conga)
+
+Build a NAS
+
+    NFS
+    Samba
+
+Practice Migrating Data
+
+    Migrate data from a disk on one server to a disk on another server.
+    Migrate Databases.
+        Live migrations
+        Export / Import
+
+Create and Manage Users
+
+    FreeIPA
+    LDAP
+    NIS
+    User name ideas: http://www.fakenamegenerator.com/
+
+Configure a Backup Server
+
+    Amanda
+    Bacula
+    Rsnapshot
+    Rsync + SSH
+
+Configure a Firewall
+
+    IPtables
+    UFW
+
+Learn LVM
+
+    Create and restore snapshots
+    Extend volumes without downtime
+
+Configure a Proxy Server
+
+    Forward Proxy
+        Apache
+        Squid
+    Reverse Proxy
+        Apache
+        NGINX
+        Pound
+
+Learn Revision Control
+
+    CVS
+    Git
+    RCS
+
+If you are still looking for more ideas, check out Linux Server Hacks and Linux Server Hacks Volume Two.  Simply looking at the table of contents will give you ideas for even more projects to tackle.
